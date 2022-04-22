@@ -1,7 +1,7 @@
 {
   "name": "@elastic/eui",
   "description": "Elastic UI Component Library",
-  "version": "54.0.0",
+  "version": "54.0.2",
   "license": "SEE LICENSE IN LICENSE.txt",
   "main": "lib",
   "module": "es",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elastic/eui.git"
+    "url": "https://github.com/bonkotu/eui.git"
   },
   "resolutions": {
     "**/prismjs": "1.27.0",
