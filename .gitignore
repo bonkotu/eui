@@ -11,7 +11,6 @@ coverage/
 reports/
 .nyc_output/
 tmp/
-dist/
 lib/
 es/
 optimize/
@@ -28,4 +27,3 @@ yarn-error.log
 
 # typescript output
 types/
-eui.d.ts
